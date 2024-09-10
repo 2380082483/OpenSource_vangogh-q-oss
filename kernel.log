@@ -1,0 +1,11 @@
+make[1]: Entering directory '/mnt/case_sensitive/Xiaomi_Kernel_OpenSource/out'
+  GEN     ./Makefile
+  Using .. as source for kernel
+  CALL    ../scripts/checksyscalls.sh
+  CHK     include/generated/compile.h
+  Building modules, stage 2.
+  MODPOST 7 modules
+make[1]: Leaving directory '/mnt/case_sensitive/Xiaomi_Kernel_OpenSource/out'
+
+[0;32m#### build completed successfully (11 seconds) ####[00m
+
