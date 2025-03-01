@@ -57,7 +57,7 @@
 
 #include <linux/swapops.h>
 #include <linux/balloon_compaction.h>
-#include <linux/rtmm.h>
+// #include <linux/rtmm.h>
 
 #include "internal.h"
 
