@@ -438,7 +438,7 @@ KBUILD_CFLAGS   := -Wall -Wundef -Wstrict-prototypes -Wno-trigraphs \
 		   -Wno-format-security \
 		   -Wformat=0 \
 		   -Wno-unused-variable \
-		   -Wno-maybe-uninitialized \
+		   -Wno-uninitialized \
 		   -Wno-parentheses \
 		   -Wno-unused-result \
 		   -Wno-uninitialized \
