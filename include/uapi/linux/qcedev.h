@@ -15,8 +15,8 @@
 #define QCEDEV_MAX_KEY_SIZE	64
 #define QCEDEV_MAX_IV_SIZE	32
 
-#define QCEDEV_ALG_SHA384        3
-#define QCEDEV_ALG_SHA384_HMAC   4
+#define QCEDEV_ALG_SHA384        5
+#define QCEDEV_ALG_SHA384_HMAC   6
 #define QCEDEV_ALG_SHA512        5
 #define QCEDEV_ALG_SHA512_HMAC   6
 
