@@ -17,8 +17,8 @@
 
 #define QCEDEV_ALG_SHA384        5
 #define QCEDEV_ALG_SHA384_HMAC   6
-#define QCEDEV_ALG_SHA512        5
-#define QCEDEV_ALG_SHA512_HMAC   6
+#define QCEDEV_ALG_SHA512        7
+#define QCEDEV_ALG_SHA512_HMAC   8
 
 #define QCEDEV_MAX_BUFFERS      16
 #define QCEDEV_MAX_SHA_DIGEST	32
