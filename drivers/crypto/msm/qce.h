@@ -5,6 +5,12 @@
  * Copyright (c) 2010-2019, The Linux Foundation. All rights reserved.
  */
 
+#define QCE_HASH_SHA384          3
+#define QCE_HASH_SHA384_HMAC     4
+#define QCE_HASH_SHA512          5
+#define QCE_HASH_SHA512_HMAC     6
+
+
 #ifndef __CRYPTO_MSM_QCE_H
 #define __CRYPTO_MSM_QCE_H
 
