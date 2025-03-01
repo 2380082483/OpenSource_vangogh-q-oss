@@ -1844,7 +1844,7 @@ static int qpnp_pon_config_init(struct qpnp_pon *pon,
 		}
 
 		rc = qpnp_pon_config_parse_reset_info(pon, cfg, cfg_node);
-		if (rc)
+		if (rc) {
 			return rc;
 
 			if (cfg->pon_type == PON_KPDPWR_RESIN) {
